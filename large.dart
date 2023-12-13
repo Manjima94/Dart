@@ -1,0 +1,11 @@
+void main(){
+  int a=5,b=6,c=8;
+  if(a>b && a> c){
+    print('$a is greater');
+  }else if(b>a && b>c){
+    print('$b is greater');
+  }else {
+    print('$c is greater');
+  }
+
+}
